@@ -1,5 +1,6 @@
 streamlit
-markitdown
-requests
-openpyxl
+markitdown[all]
 python-docx
+pdfminer.six
+openpyxl
+beautifulsoup4
