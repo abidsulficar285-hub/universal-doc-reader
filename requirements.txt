@@ -1,3 +1,5 @@
 streamlit
 markitdown
 requests
+openpyxl
+python-docx
